@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Sri Harsha Nutalapati 👋
 
 <!--
 **SriHarshaNutalapati/SriHarshaNutalapati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### About me
-My name is Venkata Krishna Phani Sri Harsha Nutalapati. I'm a full stack software engineer. I have 4.5 years of full time work experience and 1.5 years of experience as a research assistant in the ML domain. 
+I'm a full stack software engineer. I have 4.5 years of full time work experience and 1.5 years of experience as a research assistant in the ML domain. 
 
 ### 🚀 Skills
 - Frontend: React JS, JavaScript, TypeScript, HTML, CSS, Bootstrap, Joint JS, Backbone JS
