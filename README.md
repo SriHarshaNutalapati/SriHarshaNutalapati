@@ -32,6 +32,9 @@ My name is Venkata Krishna Phani Sri Harsha Nutalapati. I'm a full stack softwar
 ### 🏆 Certifications
 - PG Diploma in AI from IIIT-Bangalore (2021)
 
+### 🔎 Research
+- https://scholar.google.com/citations?user=9PmBqAwAAAAJ&hl=en
+
 ### 📫 Let's Connect
 - [LinkedIn](https://linkedin.com/in/nharsha96)
 - Email: nsriharsha96@gmail.com
